@@ -8,7 +8,7 @@ import plotly.graph_objects as go
 
 # --- CONFIGURATION DES CHEMINS ---
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-DATA_DIR = os.path.join(BASE_DIR, "data")
+DATA_DIR = BASE_DIR
 EXPORT_DIR = os.path.join(BASE_DIR, "exports")
 os.makedirs(EXPORT_DIR, exist_ok=True)
 
