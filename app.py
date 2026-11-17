@@ -96,7 +96,7 @@ st.markdown(f"""
 # --- BANDEAU SUPÉRIEUR ---
 st.markdown(f"""
 <div style="background:{accent_blue}; color:white; padding:6px 20px; font-size:0.78rem; letter-spacing:0.06em; display:flex; justify-content:space-between; border-radius:4px;">
-    <span>IR. MSC STEPHIN MBOKOLO MBAKA · PORTAIL CLIMATIQUE NATIONAL RDC</span>
+    <span>Ir. STEPHIN MBOKOLO · PORTAIL CLIMATIQUE NATIONAL RDC</span>
     <span>NORMALES 1991–2020 · OBSERVATIONS 1981–2024 · PROJECTIONS CMIP6 2026–2040</span>
 </div>
 """, unsafe_allow_html=True)
@@ -422,7 +422,7 @@ st.markdown("---")
 st.markdown("""
 <div style="display:flex; justify-content:space-between; align-items:center; color:#475569; font-size:0.88rem; padding-bottom:1.5rem;">
     <div>
-        <b style="color:#0f172a; font-size:1rem;">Ir. MSc Stephin Mbokolo Mbaka</b><br>
+        <b style="color:#0f172a; font-size:1rem;">Ir. Stephin Mbokolo</b><br>
         Modélisation Appliquée en Santé Globale, Changement Climatique & Sciences de l'Environnement · RDC<br>
         <i>Source : CHIRPS v2.0 & ERA5-Land (1981–2024), Normale OMM (1991–2020), Projections NASA NEX-GDDP-CMIP6 (2026–2040).</i>
     </div>
